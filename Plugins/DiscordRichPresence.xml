@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>Math0424/SERichPresence</Id>
+  <FriendlyName>Discord Rich Presence</FriendlyName>
+  <Author>Math0424</Author>
+  <Tooltip>Enables Discord rich presence for Space Engineers.</Tooltip>
+  <Commit>4300caca06d0897468dc5493f9de84bb783ab832</Commit>
+  <Description>Enable discord rich presence for your game</Description>
+</PluginData>
