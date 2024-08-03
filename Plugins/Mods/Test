@@ -1,1 +1,11 @@
-
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2426611028</Id>
+  <GroupId>CargoLCD</GroupId>
+  <FriendlyName>CargoLCD</FriendlyName>
+  <Author>Natomic</Author>
+  <Tooltip>Add Cargoscript</Tooltip>
+  <DependencyIds>
+      <Id>2608746450</Id>
+  </DependencyIds>
+</PluginData>
