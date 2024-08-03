@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>austinvaness/ScrollRotationPlugin</Id>
+  <FriendlyName>Scroll Rotation</FriendlyName>
+  <Author>avaness</Author>
+  <Tooltip>Enables scrolling between different block rotations.</Tooltip>
+  <Description>Allows the use of Shift, Alt, or Shift+Alt combined with scroll wheel to rotate blocks.
+
+If desired, the controls can be changed so that Shift scroll rotates the block and Alt scroll changes the rotation axis.</Description>
+  <Commit>b148b183e9d88dae884181c284ce4fd06fd29ddc</Commit>
+</PluginData>
