@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>rosudrag/se-paintjob</Id>
+  <FriendlyName>Paint Jobs</FriendlyName>
+  <Author>rosudrag</Author>
+  <Tooltip>Apply custom paint jobs to grids.</Tooltip>
+  <Description>Apply custom paint jobs to grids.</Description>
+  <Commit>73adaedd56ff7ed3bb864c7f2d810d18c86901a0</Commit>
+</PluginData>
