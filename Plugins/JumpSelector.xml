@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>Allen-Wrench/JumpSelector</Id>
+  <GroupId>JumpSelector</GroupId>
+  <FriendlyName>Jump Selector</FriendlyName>
+  <Author>dude</Author>
+  <Tooltip>The better way to use your jump drives.</Tooltip>
+  <Description>Adds a new toolbar action for your jump drives: Jump Select.
+  This amazing little window lets you input a specific distance you want to blind jump, or select one of your GPS locations to jump to *from a sorted list*.
+  Displays the current maximum distance your ship can jump just below the input box for the blind jump.
+  It also displays the status of all of your jump drives along the top of the window, and tells you what percentage they are charged if not full. You can click on those buttons to turn the jump drive on or off.
+  Right clicking on any button will turn all of your jump drives on (as long as they are not broken).
+  Removes the field of view changes from the jump effect animation.
+  *NEW* Added support for the custom turret controller.
+  </Description>
+  <Commit>1536931baa67a71f9df6824b406ab15b3fd71681</Commit>
+  <Hidden>false</Hidden>
+</PluginData>
