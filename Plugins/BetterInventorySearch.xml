@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin"> 
+  <Id>austinvaness/BetterInventorySearch</Id>
+  <FriendlyName>Better Inventory Search</FriendlyName>
+  <Author>avaness</Author>
+  <Tooltip>Highlights the item you searched for in the inventory.</Tooltip>
+  <Description>Highlights the item you searched for in the inventory. Also tweaks the production tab so that the assembler list is sorterd and your search is persistent.</Description>
+  <Commit>6f5f5b461842e3cff52cfc457114096f362d09f1</Commit> 
+</PluginData>

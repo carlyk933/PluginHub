@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>raylavaldez/Zoom</Id>
+  <GroupId>Zoom</GroupId>
+  <FriendlyName>Zoom</FriendlyName>
+  <Author>Rayla Valdez</Author>
+  <Commit>22861e1cf66f01485e9f12ed4d8beee6de90cbc4</Commit>
+  <SourceDirectories>
+    <Directory>ClientPlugin</Directory>
+  </SourceDirectories>
+  <Tooltip>Zoom plugin, for zooming</Tooltip>
+  <Description>
+Plugin that allows for dynamic zooming for getting a peek at that pesky ship closing in.
+    
+Credits go to Github user 'Math0424' for creating ScrollableFOV and then not including a config screen.
+  </Description>
+</PluginData>
